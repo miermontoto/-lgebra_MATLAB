@@ -1,0 +1,19 @@
+NOTA: 3.5*0.3125  ->   1.0938/1.25pt
+
+COMENTARIOS:
+
+- Ejercicio 1:
+Ok, aunque falta definir B excluyendo la última fila
+
+- Ejercicio 2:
+Ok
+
+- Ejercicio 3:
+Ok
+
+- Ejercicio 4:
+Falta calcular coordenadas de imágenes
+
+
+
+

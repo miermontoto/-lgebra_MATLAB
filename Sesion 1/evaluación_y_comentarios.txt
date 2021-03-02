@@ -1,0 +1,12 @@
+NOTA: 1.125/1.25pt
+
+COMENTARIOS:
+
+- Ejercicio 1
+Ok pero no deberías declararlas como variables simbólicas
+- Ejercicio 2
+Ok
+- Ejercicio 3
+Ok
+- Ejercicio 4
+No completado, los tamaños de los bloques no encajan
